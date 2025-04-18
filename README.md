@@ -34,3 +34,5 @@ The dataset includes the following features:
 - Final model score: **97% accuracy**
 - Minimal overfitting, and consistent results between both impurity metrics
 - Gini performed slightly faster in training time, but both produced similar trees
+
+## 📓 [View Notebook](./decision-tree-car-analysis.ipynb)
